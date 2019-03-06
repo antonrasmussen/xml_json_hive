@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<body>
+    <NewRx>
+        <NewRx.A>http://example.com/Labs</NewRx.A>
+        <NewRx.B>Labs</NewRx.B>
+        <NewRx.C>
+            <NewRx.C.A>
+                <NewRx.C.A.A>http://example.com/Labs/Email</NewRx.C.A.A>
+                <NewRx.C.A.B>Email</NewRx.C.A.B>
+                <NewRx.C.A.C>
+                    <NewRx.C.A.C.A>http://example.com/Labs/Email/How_to</NewRx.C.A.C.A>
+                    <NewRx.C.A.C.B>How-To</NewRx.C.A.C.B>
+                </NewRx.C.A.C>
+            </NewRx.C.A>
+            <NewRx.C.B>
+                <NewRx.C.B.A>http://example.com/Labs/Social</NewRx.C.B.A>
+                <NewRx.C.B.B>Social</NewRx.C.B.B>
+            </NewRx.C.B>
+        </NewRx.C>
+    </NewRx>
+</body>
